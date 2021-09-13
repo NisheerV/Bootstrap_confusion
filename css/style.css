@@ -77,6 +77,13 @@ body{
     margin-top: 10px;
 }
 
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
 .copyright{
     padding-top: 5%;
 }
