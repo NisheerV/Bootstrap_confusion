@@ -68,6 +68,15 @@ body{
     left: 0;
     min-height: 300px;
 }
+.btn-sec{
+    width: 33%;
+}
+
+.form-control-dt{
+    margin-left: -12px;
+    margin-top: 10px;
+}
+
 .copyright{
     padding-top: 5%;
 }
