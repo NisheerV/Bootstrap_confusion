@@ -31,15 +31,6 @@ body {
 .navbar-dark {
   background-color: #512DA8; }
 
-.btn-sec{
-    width: 33%;
-}
-
-.form-control-dt{
-  margin-left: -18px;
-  margin-top: 10px;
-}
-
 .tab-content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -63,8 +54,7 @@ body {
       position: absolute;
       top: 0;
       left: 0;
-      min-height: 300px; 
-    }
+      min-height: 300px; }
 
 #carouselButton {
   right: 0px;
